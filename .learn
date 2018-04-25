@@ -7,3 +7,5 @@ languages:
   - ruby
 resources:
 live_assessment: true
+
+parent_template: git@github.com:learn-co-curriculum/sinatra-cms-app-assessment.git
